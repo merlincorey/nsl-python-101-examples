@@ -1,0 +1,22 @@
+* Null Space Labs
+
+[[http://032.la][Null Space Labs]] is a [[http://hackerspaces.org/][hacker space]] in Los Angeles, California.
+
+Just about every Saturday a class is held.
+
+Check out the [[http://www.meetup.com/NullSpaceLabs/events/][events on MeetUp]] to see what is upcoming.
+
+** Programming 101: Introduction to Python
+
+Periodically (every 6 to 9 months or so) there is an introduction to the Python programming language.
+
+The class focuses on programming basics using [[https://docs.python.org/2/][Python 2.7]].
+
+At the end of the class, participants are invited to produce a game.
+
+*** 2015
+
+- [[./games/2015/merlin-nsl-adventure.py][merlin-nsl-adventure]] :: Merlin wrote a hacker themed single-room adventure game in a super functional style
+
+
+
